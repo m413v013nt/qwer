@@ -1,0 +1,12 @@
+for newly created:
+…or create a new repository on the command line
+
+echo "# qwer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/m413v013nt/qwer.git
+git push -u origin master
+
+
+
